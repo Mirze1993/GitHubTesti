@@ -10,7 +10,7 @@ COPY . ./
 RUN dotnet publish --no-restore -c Release -o out
 
 
-FROM mcr.microsoft.com/dotnet/asp.net:5.0
+FROM mcr.microsoft.com/dotnet/asp.net:5.1
 
 WORKDIR /app
 COPY --from=publish-env /app/out .
