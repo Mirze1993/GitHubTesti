@@ -11,5 +11,6 @@ namespace WebApplication2.Models
         public bool ShowRequestId2 { get; set; }
 
         public bool ShowRequestId3 { get; set; }
+        public bool ShowRequestId5 { get; set; }
     }
 }
