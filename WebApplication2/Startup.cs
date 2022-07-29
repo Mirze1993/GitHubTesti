@@ -11,6 +11,7 @@ namespace WebApplication2
         public void ConfigureServices(IServiceCollection services)
         {
             //Burda master duzelisi
+            //RebaseTesti masterden yarandi
             services.AddControllersWithViews();
         }
 
