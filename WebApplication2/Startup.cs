@@ -12,6 +12,7 @@ namespace WebApplication2
         {
             //Burda master duzelisi
             //RebaseTesti masterden yarandi
+            //----------
             services.AddControllersWithViews();
         }
 
