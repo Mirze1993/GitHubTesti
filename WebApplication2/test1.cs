@@ -9,6 +9,8 @@
         public int aaaaaaa { get; set; }
 
         public int bbbbbb { get; set; }
+        public int cccccc { get; set; }
+
 
     }
 }
