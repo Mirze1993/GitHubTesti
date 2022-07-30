@@ -4,5 +4,6 @@
     {
         public int MyProperty { get; set; }
         public int asd { get; set; }
+        public int qswsqwd { get; set; }
     }
 }
