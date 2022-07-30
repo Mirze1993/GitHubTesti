@@ -3,5 +3,6 @@
     public class test1
     {
         public int MyProperty { get; set; }
+        public int asd { get; set; }
     }
 }
