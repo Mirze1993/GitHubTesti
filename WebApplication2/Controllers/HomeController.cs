@@ -15,7 +15,7 @@ namespace WebApplication2.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
-            //as
+            //1
             _logger = logger;
         }
 
